@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am takdier7 on github.
+  * I am takdir7 (https://keybase.io/takdir7) on keybase.
+  * I have a public key ASDWE3cjoIVZ3-tegDPQkyVfckRRC9BLyRQ_xrUzePzQlAo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d6137723a08559dfeb5e8033d093255f7244510bd04bc9143fc6b53378fcd0940a",
+      "host": "keybase.io",
+      "kid": "0120d6137723a08559dfeb5e8033d093255f7244510bd04bc9143fc6b53378fcd0940a",
+      "uid": "a10e898e8870499a69b7ab93b90d4a19",
+      "username": "takdir7"
+    },
+    "merkle_root": {
+      "ctime": 1574176331,
+      "hash": "e97751aa841f6193135e43a8e1f20df889e054b15fd1d2e0c63200ce426a6dbeeaf1593e195d5e3671edf1458a5827366348ed65b7df9e91a16bd73d907b4696",
+      "hash_meta": "8756accc0c468b43cc97df9d502df03293d1a9da8e487fd1b99aae5b72e6e87b",
+      "seqno": 10206976
+    },
+    "service": {
+      "entropy": "DT7A/GffGlWsJtdvcloCMqpY",
+      "name": "github",
+      "username": "takdier7"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1574176332,
+  "expire_in": 504576000,
+  "prev": "a21d138b878fcf65a1acb95fe55beedf565872963a4de2e8c94875039ccd4380",
+  "seqno": 14,
+  "tag": "signature"
+}
+```
+
+with the key [ASDWE3cjoIVZ3-tegDPQkyVfckRRC9BLyRQ_xrUzePzQlAo](https://keybase.io/takdir7), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg1hN3I6CFWd/rXoAz0JMlX3JEUQvQS8kUP8a1M3j80JQKp3BheWxvYWTESpcCDsQgoh0Ti4ePz2WhrLlf5Vvu31ZYcpY6TeLoyUh1A5zNQ4DEIP5p90HCSle6j7XKSfh3kQt4irbl+xv3ViQlRmDA6uASAgHCo3NpZ8RAz8tZBs38sCjPGkXlVv7wLxC0tvdYl/ia9hf6S2YcSE2UWb1Na+pfQZjIvMKlJKDwzXhO80TlIJ8yrc85Bc/FB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDkHsl+AZKzECb2LkWBnwv0y5PJdWCs6B5XTq4vGjhxKo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/takdir7
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id takdir7
+```
